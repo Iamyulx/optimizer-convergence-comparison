@@ -29,10 +29,10 @@ The convergence behavior of each optimizer is compared using **MSE loss**.
 
 ## Project Structure
 
-optimizers.py → optimizer implementations
-model.py → linear regression model
-train.py → training loop
-plot_results.py → optimizer comparison plot
+optimizers.py → optimizer implementations.
+model.py → linear regression model.
+train.py → training loop.
+plot_results.py → optimizer comparison plot.
 
 
 ## Requirements
